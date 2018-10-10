@@ -8,17 +8,17 @@ We are PhD students of the Biolinguistics Initiative Barcelona, a research group
 
 ### Want to know more?
 
-You can stalk us on Twitter!
-
-[Stefanie Sturm](https://twitter.com/sturm_steffi)
+You can stalk us on Twitter (in alphabetical order)!
 
 [Alejandro Andirkó](https://twitter.com/AGMAndirko)
 
+[Juan Andrés Moriano](https://twitter.com/juanandres_mp)
+
 [Pedro Tiago Martins](https://twitter.com/ptsgmartins)
 
-[Thomas O'Rourke](https://twitter.com/Thomas_ORourke)
+[Stefanie Sturm](https://twitter.com/sturm_steffi)
 
-[Juan Andrés Moriano](https://twitter.com/juanandres_mp)
+[Thomas O'Rourke](https://twitter.com/Thomas_ORourke)
 
 ### Send us a nice email!
 
