@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to our blog!
+author: Stefanie
 ---
 
 This is our first and only post. I will now try some Markdown stuff. 
