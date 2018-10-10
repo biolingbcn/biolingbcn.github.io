@@ -18,6 +18,8 @@ You can stalk us on Twitter!
 
 [Thomas O'Rourke](https://twitter.com/Thomas_ORourke)
 
+[Juan Andrés Moriano](https://twitter.com/juanandres_mp)
+
 ### Send us a nice email!
 
 [biolinguistics.bcn@gmail.com](mailto:biolinguistics.bcn@gmail.com)
