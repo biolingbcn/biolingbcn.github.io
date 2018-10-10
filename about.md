@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Who are we?
 permalink: /about/
 ---
 
-Some information about you!
+We are PhD students of the Biolinguistics Initiative Barcelona, a research group at the University of Barcelona led by Cedric Boeckx. We are from different countries and we have different ages, hair colours, body types, and academic/non-academic interests. Here, we would like to express our personal views on the things that we deal with in our life as PhD students.
 
-### More Information
+### Want to know more?
 
-A place to include any other types of information that you'd like to include about yourself.
+You can stalk us on the Internet!
 
-### Contact me
+Stefanie Sturm on Twitter @sturm_steffi
 
-[email@domain.com](mailto:email@domain.com)
+### Send us a nice email!
+
+[biolinguistics.bcn@gmail.com](mailto:biolinguistics.bcn@gmail.com)
