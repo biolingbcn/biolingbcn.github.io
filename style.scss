@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $darkerGray;
+  color: DarkSeaGreen;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $darkerGray;
+    color: DarkSlateGray;
   }
 }
 
@@ -271,7 +271,6 @@ nav {
   }
 
   .read-more {
-    text-transform: uppercase;
     font-size: 15px;
   }
 }
