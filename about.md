@@ -8,7 +8,7 @@ We are PhD students of the Biolinguistics Initiative Barcelona, a research group
 
 ### Want to know more?
 
-Visit our research group's [website](http://bioling.ub.edu)
+Visit our research group's [website](http://bioling.ub.edu).
 
 Ooooor... you can stalk us on Twitter (in alphabetical order)!
 
