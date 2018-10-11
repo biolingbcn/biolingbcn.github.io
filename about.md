@@ -4,11 +4,13 @@ title: Who are we?
 permalink: /about/
 ---
 
-We are PhD students of the Biolinguistics Initiative Barcelona, a research group at the University of Barcelona led by Cedric Boeckx. We are from different countries and we have different ages, hair colours, body types, and academic/non-academic interests. Here, we would like to express our personal views on the things that we deal with in our life as PhD students.
+We are PhD students of the Biolinguistics Initiative Barcelona, a research group at the University of Barcelona led by Cedric Boeckx. We are from different countries and we have different ages, genders, hair colours, body types, diets, and academic/non-academic interests. Here, we would like to express our personal views on the things that we deal with in our life as PhD students.
 
 ### Want to know more?
 
-You can stalk us on Twitter (in alphabetical order)!
+Visit our research group's [website](http://bioling.ub.edu)
+
+Ooooor... you can stalk us on Twitter (in alphabetical order)!
 
 [Alejandro Andirkó](https://twitter.com/AGMAndirko)
 
