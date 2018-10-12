@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: Explore by category or author
 permalink: /archive
 ---
 {% for post in site.posts %}
