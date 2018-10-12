@@ -18,6 +18,8 @@ Visit our research group's [website](http://bioling.ub.edu).
 Alejandro is a second-year PhD student in the group. He works on bones and genes and stuff. He is interested in nerdy things and playing the bass. yoooo
 </div>
 
+<br />
+
 [Twitter](https://twitter.com/AGMAndirko)
 
 [Website](http://andirko.eu)
