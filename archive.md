@@ -20,11 +20,11 @@ permalink: /archive
 
 {% for post in site.posts %}
 
-    {% if post.tag == "fun" %}
+{% if post.tag == "fun" %}
 
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{ post.author }}
+<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{ post.author }}
 
-    {% endif %}
+{% endif %}
 
 {% endfor %}
 
