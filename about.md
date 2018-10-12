@@ -10,10 +10,10 @@ We are PhD students of the Biolinguistics Initiative Barcelona, a research group
 
 Visit our research group's [website](http://bioling.ub.edu).
 
-<img src="/images/alejandro.jpg" align="right" width="40px"> <b> Alejandro Andirkó T</b> <br> Alejandro is a second-year PhD student in the group. He works on bones and genes and stuff. He is interested in nerdy things and playing the bass. He likes dogs.
+<img src="/images/alejandro.jpg" align="right" width="10%"> <b> Alejandro Andirkó T</b> <br> Alejandro is a second-year PhD student in the group. He works on bones and genes and stuff. He is interested in nerdy things and playing the bass. He likes dogs.
 <br> <br>
 
-<img src="/images/juan.jpg" align="right" width="40px"> <b> Juan Andrés Moriano Palacios T</b> <br> Alejandro is a second-year PhD student in the group. He works on bones and genes and stuff. He is interested in nerdy things and playing the bass. He likes dogs.
+<img src="/images/juan.jpg" align="right" width="10%"> <b> Juan Andrés Moriano Palacios T</b> <br> Alejandro is a second-year PhD student in the group. He works on bones and genes and stuff. He is interested in nerdy things and playing the bass. He likes dogs.
 <br> <br>
 
 [Pedro Tiago Martins](https://twitter.com/ptsgmartins)
