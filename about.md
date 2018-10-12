@@ -23,7 +23,7 @@ Alejandro is a second-year PhD student in the group. He works on bones and genes
 
 <div>
   
-<!--Insert photo here!>
+<!--Insert photo here! -->
   
 **Juan Andrés Moriano Palacios**
 
