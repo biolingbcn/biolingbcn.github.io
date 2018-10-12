@@ -84,3 +84,11 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  
+# Collections
+
+collections:
+  academia:
+    output: true
+  fun:
+    output: true
