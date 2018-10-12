@@ -10,9 +10,14 @@ We are PhD students of the Biolinguistics Initiative Barcelona, a research group
 
 Visit our research group's [website](http://bioling.ub.edu).
 
-Ooooor... you can stalk us on Twitter (in alphabetical order)!
+**Alejandro Andirkó**
 
-[Alejandro Andirkó](https://twitter.com/AGMAndirko)
+<img src="/images/alejandro.jpg" style="float: left"> Alejandro is a second-year PhD student in the group. He works on bones and genes and stuff. He is interested in nerdy things and playing the bass. 
+
+[Twitter](https://twitter.com/AGMAndirko)
+
+[Website](http://andirko.eu)
+
 
 [Juan Andrés Moriano](https://twitter.com/juanandres_mp)
 
