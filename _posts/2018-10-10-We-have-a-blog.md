@@ -3,6 +3,7 @@ layout: post
 title: Welcome to our blog!
 author: Stefanie
 excerpt: Some words to welcome you to our blog but no actual content. 
+tag: academia
 ---
 
 Hi! 
