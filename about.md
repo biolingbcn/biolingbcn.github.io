@@ -9,15 +9,12 @@ We are PhD students of the Biolinguistics Initiative Barcelona, a research group
 ### Want to know more?
 
 Visit our research group's [website](http://bioling.ub.edu).
-
-<div>
   
 <img src="/images/alejandro.jpg" align="left" style="margin: 0 5px 5px 0" width="10%">
 
-<bf>Alejandro Andirkó</bf> <br />
+**Alejandro Andirkó**
 
 Alejandro is a second-year PhD student in the group. He works on bones and genes and stuff. He is interested in nerdy things and playing the bass. He likes dogs.
-</div>
 
 [Twitter](https://twitter.com/AGMAndirko) [Website](http://andirko.eu)
 
