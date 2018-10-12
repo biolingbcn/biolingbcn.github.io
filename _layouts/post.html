@@ -6,9 +6,7 @@ comments: true
 <article class="post">
   <h1>{{ page.title }}</h1>
  
-  <div class="author">
-    Written by {{ page.author }} on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+Written by <bf>{{ page.author }}</bf> on <span style="font-color: grey">{{ page.date | date: "%B %e, %Y" }}</span>
   
   <div class="entry">
     {{ content }}
