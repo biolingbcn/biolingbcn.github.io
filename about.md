@@ -19,12 +19,17 @@ Visit our research group's [website](http://bioling.ub.edu).
 Alejandro is a second-year PhD student in the group. He works on bones and genes and stuff. He is interested in nerdy things and playing the bass. He likes dogs.
 </div>
 
-[Twitter](https://twitter.com/AGMAndirko)
+[Twitter](https://twitter.com/AGMAndirko) [Website](http://andirko.eu)
 
-[Website](http://andirko.eu)
+<div>
+  
+<!--Insert photo here!>
+  
+**Juan Andrés Moriano Palacios**
 
+[Twitter](https://twitter.com/juanandres_mp) 
 
-[Juan Andrés Moriano](https://twitter.com/juanandres_mp)
+</div>
 
 [Pedro Tiago Martins](https://twitter.com/ptsgmartins)
 
