@@ -13,7 +13,7 @@ Visit our research group's [website](http://bioling.ub.edu).
 <img src="/images/alejandro.jpg" align="right" width="10%" style="border-radius: 50%"> <b> Alejandro Andirkó </b><a href="https://twitter.com/AGMAndirko" target="_blank"><i class="fab fa-twitter"></i></a> <br> Alejandro is a second-year PhD student in the group. He works on bones and genes and stuff. He is interested in nerdy things and playing the bass. He likes dogs and cats. Yay round image!
 <br> <br>
 
-<img src="/images/juan.jpg" align="right" width="10%"> <b> Juan Andrés Moriano Palacios T</b> <br> Alejandro is a second-year PhD student in the group. He works on bones and genes and stuff. He is interested in nerdy things and playing the bass. He likes dogs.
+<img src="/images/juan.jpg" align="right" width="10%" style="border-radius: 50%"> <b> Juan Andrés Moriano Palacios </b><a href="https://twitter.com/juanandres_mp" target="_blank"><i class="fab fa-twitter"></i></a> <br> Alejandro is a second-year PhD student in the group. He works on bones and genes and stuff. He is interested in nerdy things and playing the bass. He likes dogs.
 <br> <br>
 
 [Pedro Tiago Martins](https://twitter.com/ptsgmartins)
