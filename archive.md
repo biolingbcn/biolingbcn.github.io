@@ -8,11 +8,11 @@ permalink: /archive
 
 {% for post in site.posts %}
 
-    {% if post.tag == "academia" %}
+{% if post.tag == "academia" %}
 
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{ post.author }}
+<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{ post.author }}
 
-    {% endif %}
+{% endif %}
 
 {% endfor %}
 
