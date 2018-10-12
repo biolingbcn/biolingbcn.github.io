@@ -4,5 +4,8 @@ title: Archive
 permalink: /archive
 ---
 {% for post in site.posts %}
-{{ post.url }}
+
+<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+
+
 {% endfor %}
