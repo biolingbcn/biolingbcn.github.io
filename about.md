@@ -14,7 +14,7 @@ Visit our research group's [website](http://bioling.ub.edu).
   
 <img src="/images/alejandro.jpg" align="left" style="margin: 0 5px 5px 0" width="10%">
 
-<bf>Alejandro Andirkó</bf>
+<bf>Alejandro Andirkó</bf> <br />
 
 Alejandro is a second-year PhD student in the group. He works on bones and genes and stuff. He is interested in nerdy things and playing the bass. He likes dogs.
 </div>
