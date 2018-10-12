@@ -10,7 +10,7 @@ We are PhD students of the Biolinguistics Initiative Barcelona, a research group
 
 Visit our research group's [website](http://bioling.ub.edu).
   
-<img src="/images/alejandro.jpg" float="left" style="margin: 0 5px 5px 0" width="10%">
+<img src="/images/alejandro.jpg" align="right" style="margin: 0 5px 5px 0" width="10%">
 
 **Alejandro Andirkó**
 
