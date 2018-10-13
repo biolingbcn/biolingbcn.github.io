@@ -1,9 +1,8 @@
 ---
 layout: default
-name: Pedro Tiago Martins
+name: Thomas O'Rourke
 photo: /images/pedro.jpg
-twitter: ptsgmartins
-website: http://ptmartins.info
+twitter: Thomas_ORourke
 ---
 
-Pedro has a nice beard but that doesn't mean he knows everything always at all times. 
+Bio missing. Tom doesn't actually like Twitter by the way. It is a miracle he is even up for the blog.
