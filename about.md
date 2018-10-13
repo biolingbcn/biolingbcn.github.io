@@ -16,7 +16,7 @@ Visit our research group's [website](http://bioling.ub.edu).
 {% endfor %}
 
 
-<img src="/images/juan.jpg" align="right" width="10%" style="border-radius: 50%"> <b> Juan Andrés Moriano Palacios </b><a href="https://twitter.com/juanandres_mp" target="_blank"><i class="fab fa-twitter"></i></a> <br> Alejandro is a second-year PhD student in the group. He works on bones and genes and stuff. He is interested in nerdy things and playing the bass. He likes dogs.
+<img src="/images/juan.jpg" align="right" width="10%" style="border-radius: 50%"> <b> Juan Andrés Moriano Palacios </b><a href="https://twitter.com/juanandres_mp" target="_blank"><i class="fab fa-twitter"></i></a> <br> Alejandro is a second-year PhD student in the group. He works on bones and genes and stuff. He is interested in nerdy things and playing the bass. He likes dogs. HALLOOO
 <br> <br>
 
 {% for person in site.people %}
