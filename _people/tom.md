@@ -1,7 +1,7 @@
 ---
 layout: default
 name: Thomas O'Rourke
-photo: /images/pedro.jpg
+photo: /images/tom.jpg
 twitter: Thomas_ORourke
 ---
 
