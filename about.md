@@ -12,7 +12,7 @@ Visit our research group's [website](http://bioling.ub.edu).
 
 {% for person in site.people %}
 <img src="{{ person.photo }}" align="right" width="10%" style="border-radius: 50%"> <b> {{ person.name }} </b><a href="https://twitter.com/{{ person.twitter }}" target="_blank"><i class="fab fa-twitter"></i></a>
-{{ content }}
+{{ person.content }}
 {% endfor %}
 
 ### Send us a nice email!
