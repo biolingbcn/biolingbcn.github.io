@@ -92,3 +92,5 @@ collections:
     output: true
   fun:
     output: true
+  people:
+    output: true
