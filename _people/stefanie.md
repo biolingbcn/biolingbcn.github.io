@@ -1,4 +1,5 @@
 ---
+layout: default
 name: Stefanie Sturm
 photo: /images/steffi.jpg
 twitter: sturm_steffi
