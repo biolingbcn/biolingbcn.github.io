@@ -1,6 +1,6 @@
 ---
 name: Stefanie Sturm
-photo: /img/stefanie.jpg
+photo: /img/steffi.jpg
 twitter: sturm_steffi
 website: http://stefaniesturm.com 
 ---
