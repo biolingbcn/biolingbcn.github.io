@@ -11,12 +11,12 @@ We are PhD students of the Biolinguistics Initiative Barcelona, a research group
 Visit our research group's [website](http://bioling.ub.edu).
 
 {% for person in site.people %}
-<img src="{{ person.photo }}" align="right" width="10%" style="border-radius: 50%"> <b> {{ person.name }} </b><a href="https://twitter.com/{{ person.twitter }}" target="_blank"><i class="fab fa-twitter"></i></a> <br> {{ content }}
+<img src="{{ person.photo }}" align="right" width="10%" style="border-radius: 50%"> <b> {{ person.name }} </b><a href="https://twitter.com/{{ person.twitter }}" target="_blank"><i class="fab fa-twitter"></i></a> <br> {{ person.content }}
 <br> <br>
 {% endfor %}
 
 
-<img src="/images/juan.jpg" align="right" width="10%" style="border-radius: 50%"> <b> Juan Andrés Moriano Palacios </b><a href="https://twitter.com/juanandres_mp" target="_blank"><i class="fab fa-twitter"></i></a> <br> Alejandro is a second-year PhD student in the group. He works on bones and genes and stuff. He is interested in nerdy things and playing the bass. He likes dogs. HALLOOO
+<img src="/images/juan.jpg" align="right" width="10%" style="border-radius: 50%"> <b> Juan Andrés Moriano Palacios </b><a href="https://twitter.com/juanandres_mp" target="_blank"><i class="fab fa-twitter"></i></a> <br> Alejandro is a second-year PhD student in the group. He works on bones and genes and stuff. He is interested in nerdy things and playing the bass. He likes dogs. 
 <br> <br>
 
 {% for person in site.people %}
