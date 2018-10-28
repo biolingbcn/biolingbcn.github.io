@@ -6,10 +6,11 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
+      <div style="background-color: black>
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <span style="font-weight: bold"> {{ post.subtitle }} </span>
       <p><span style="font-style: italic"> Written by {{ post.author }} </span></p>
-      
+      </div>
 
       <div class="entry">
         {{ post.excerpt }}
