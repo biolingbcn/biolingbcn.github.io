@@ -26,48 +26,48 @@ Navigating the social sub-world of academia is a never-ending challenge, I guess
 * Be professional
 * Join (and take part in) clubs/societies that interest you, even if none of your friends do. You’ll meet cool people there!
 
+##### Choosing the right subject
+This is a **very** tricky one. Everyone seems to have their own take on this. I was told to pick something I really like, and that meant in my case that I chose what seemed easiest to me. That's one way of doing it, but being afraid of challenges is not great, I'd say. Overall, people's advice seemed to say: Don't just do things brainlessly. Think about your decisions. Except when you don't know what to do - in that case, do the complete opposite!
+* Choose the field that interests you the most
+* If you want university to be your job, don’t try to turn your hobby into your job. Save your hobby for yourself
+* Study more broadly
+* Drop a class after the first two weeks if you realise it’s not for you
+* Don’t be afraid of "difficult" subjects. You are smart, you can learn (almost) anything (maybe everything)
+* Write down the reasons you are going/applying to university/this university/this course. Then ask yourself if the reasons are good enough to justify it. If not, do something else
+* You don’t have to go to university to have an interesting life/job/be educated
+* A lot of bullshit is happening at university. University is a beautiful but mostly useless tree full of branches that end nowhere in particular
+* You don’t have to know where you want to be in 10 years. You will find out anyway
+* You have more options than you think
 
-Choosing the right subject
-Choose the field that interests you the most
-If you want university to be your job, don’t try to turn your hobby into your job. Save your hobby for yourself
-Study more broadly
-Drop a class after the first two weeks if you realise it’s not for you
-Don’t be afraid of “difficult” subjects
-Write down the reasons you are going/applying to university/this university/this course. Then ask yourself if the reasons are good enough to justify it. If not, do something else
-You don’t have to go to university to have an interesting life/job/be educated
-A lot of bullshit is happening at university. University is a beautiful but mostly useless tree full of branches that end nowhere in particular
-You don’t have to know where you want to be in 10 years. You will find out anyway
-You have more options than you think
+##### Shoe-shining that CV
+If, like me, you have a humanities background, or are thinking about studying something in the humanities, I am sure you have come across that thing where people tell you to learn some useful stuff "on the side" of your studies, like internships, or Python, or starting a fashion blog. In my first year of linguistics, we were told that a great alternative job prospect for humanities people, in the likely case that they won't find work in academia, was "becoming a fiction writer" (it was not a joke, I think). I used to think this problem was somehow specific to the humanities, but the more people from other disciplines I meet, the more I realise many people feel like that, because uni classes tend to be quite far away from reality. Here's what people with all sorts of backgrounds, including biology, psychology, and medicine, told me: 
+* Study computer science
+* Learn programming
+* Get involved with university projects that involve the "real" world, be that workshops, charity, internships, etc.
+* Don’t be fooled into thinking university prepares you for the job market
 
+##### How to study
+Some of the advice that people would like to give their rosy-cheeked, pimple-nosed, enthusiastic selves of the past was related to how to actually study, which can be quite a painful process to find out. The bad news is: It seems really tough to convey. Most advice sounds quite vague, and to be fair I doubt that I would have understood what exactly people meant by this, if someone would have told me back in the day. My gut feeling tells me this is something that one has to truly find out for themselves... But let's give it a go, anyway!
+* Learn to make a good argument
+* People “develop” ideas, they don’t just “have” them
+* Nobody really cares about the grade 
+But also...
+* Grades count, even the early ones. They will come back to haunt you when you least expect it
+* Go abroad
+* Look for interesting opportunities as they're not always widely advertised
+* Practice presentations often. Take seminar presentations serious as practicing ground
+* Take yourself and your work seriously
+* Treat university as a job
+* University is not a synonym for education. You have to educate yourself, university will not educate you
+* Go beyond what a teacher tells you to do: research the things you find fascinating on your own
 
+##### Money and jobs
+And last but not least, a few words on the financial side of business. This stuff of course depends hugely on the country we are talking about. Germany is quite nice for this, since really a lot of stuff is free, something that I have come to properly appreciate only after leaving the country. But on the other hand, especially in the infamous UK (fingers crossed about that Brexit thing, by the way), there's more money floating around than you might think. Universities, even here in Spain, sometimes have funds that are reserved for specific purposes, and since people don't know about them, they just get lost and forgotten. Even if they ask you to pay for an enrollment certificate (which might make you think they must be really, really broke), there may be an untouched fund for paying some conference attendance fee for you (or even for buying a coffee maker). Also, working on the side is something many people recommend, because you come out of uni better prepared for the real world. But at the same time, your grades may suffer because you are too stressed to study properly. So, along these lines... 
+* Ask for money. There are lots of funds that are not used
+* Having a job on the side will remind you what life is like in the real world
+* Get work experience during your studies
+* Enjoy not having a real job as long as you can
+* Try to get a grant. Even a small grant is a good grant
 
-Skills outside your subject
-Study computer science
-Learn programming
-Get involved with university projects that involve the "real" world, be that workshops, charity, internships, etc.
-Don’t be fooled into thinking university prepares you for the job market
-
-
-How to study
-Learn to make a good argument
-People “develop” ideas, they don’t just “have” them
-Nobody really cares about the grade
-Grades count, even the early ones. They will come back to haunt you when you least expect it
-Go abroad
-Look for interesting opportunities as they're not always widely advertised
-Practice presentations often. Take seminar presentations serious as practicing ground
-Take yourself and your work seriously
-Treat university as a job
-University is not a synonym for education. You have to educate yourself, university will not educate you
-Go beyond (outside of class, not for the usual class work) what a teacher tells you to do: research on your own the things you find fascinating
-
-
-Money and jobs
-Ask for money. There are lots of funds that are not used
-Having a job on the side will remind you what life is like in the real world
-Get work experience during your studies
-Enjoy not having a real job as long as you can
-Try to get a grant. Even a small grant is a good grant
-
-
+People told me all of these things without me asking for specific topics. I just asked them what they would like to tell their younger selves. The kind of things people told me are overall strikingly sober and concerned with money and the job market. This says more about the post-PhD, academic midlife crisis that my friends are in than about what you should do when you start your studies. Oh, well. It's a tough life. 
  
