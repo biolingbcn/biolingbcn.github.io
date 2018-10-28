@@ -5,4 +5,4 @@ photo: /images/juan.jpg
 twitter: juanandres_mp
 ---
 
-Bio missing.
+As a neuroscientist with a background in genetics, Juan's main interest is to understand how cognitive abilities, particularly those implicated in human language, are implemented in the nervous system. 
