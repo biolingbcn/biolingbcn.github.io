@@ -1,6 +1,7 @@
 ---
 layout: post
-title: How to be a university student (a.k.a. Things I would have liked to know when I was younger)
+title: How to be a university student 
+subtitle: (a.k.a. Things I would have liked to know when I was younger)
 author: Stefanie
 ---
 
