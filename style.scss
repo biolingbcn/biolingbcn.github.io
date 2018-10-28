@@ -30,12 +30,13 @@ body {
   width: 100%;
 }
 
-h1post, h2post, h3post, h4post, h5post, h6post {
+h1post {
   font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: 300;
   background-color: #F0F0F0;
   text-align: center;
+  font-size: 30px;
 	
   line-height: 1.7;
   margin: 1em 0 15px;
