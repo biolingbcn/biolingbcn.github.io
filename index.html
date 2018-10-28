@@ -7,9 +7,9 @@ layout: default
     <article class="post">
 
       <h1 style="background-color: gray; color: white"<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <span style="font-weight: bold; background-color: gray; color: white; display: block"> {{ post.subtitle }} </span>
-      <p><span style="font-style: italic; background-color: gray; color: white; display: block"> Written by {{ post.author }} </span></p>
-      </div>
+      {{ post.subtitle }}
+      <p><span style="font-style: italic"> Written by {{ post.author }} </span></p>
+      
 
       <div class="entry">
         {{ post.excerpt }}
