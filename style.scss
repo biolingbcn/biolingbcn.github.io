@@ -30,6 +30,22 @@ body {
   width: 100%;
 }
 
+h1front, h2front, h3front, h4front, h5front, h6front {
+  font-family: $helveticaNeue;
+  color: $darkerGray;
+  font-weight: 300;
+  background-color: #F0F0F0;
+  text-align: center;
+	
+  line-height: 1.7;
+  margin: 1em 0 15px;
+  padding: 0;
+
+  @include mobile {
+    line-height: 1.4;
+  }
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
