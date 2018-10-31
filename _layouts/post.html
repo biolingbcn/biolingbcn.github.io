@@ -4,9 +4,8 @@ comments: true
 ---
 <article class="post">
   <center><h1post>{{ page.title }}</h1post></center>
-  
-<center>Written by <bf>{{ page.author }}</bf> on <span style="font-color: grey">{{ page.date | date: "%B %e, %Y" }}</span></center>
-   
+  <center><span style="font-weight: bold"> {{ post.subtitle }} </span> </center>
+  <center><span style="font-style: italic"> By {{ post.author }} on {{ post.date | date: "%B %e, %Y" }} </span> </center   
    
    <div class="entry">
      {{ content }}
