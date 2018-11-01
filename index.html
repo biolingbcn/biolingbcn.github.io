@@ -6,16 +6,15 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
-      <center><h1post> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1post></center>
-      <center><span style="font-weight: bold"> {{ post.subtitle }} </span> </center>
-      <center><span style="font-style: italic"> By {{ post.author }} on {{ post.date | date: "%B %e, %Y" }} </span> </center>
-      
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.subtitle }}</a></h2>
+      <span style="font-style: italic"> By {{ post.author }} on {{ post.date | date: "%B %e, %Y" }} </span>
 
-      </br><div class="entry">
+      <div class="entry">
         {{ post.excerpt }}
       </div>
 
-      </br><center><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read this article</a></center>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
