@@ -30,17 +30,12 @@ body {
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
-  font-weight: bold;
-
-  line-height: 10pt;
-  margin: 1em 0 7px;
+line-height: 10pt;
+  margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 1;
+    line-height: 1.4;
   }
 }
 
