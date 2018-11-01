@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Welcome to our blog!
+title: Looking beyond the edge of your plate
+subtitle: Speaking to people from different disciplines
 author: Stefanie
 excerpt: Some words to welcome you to our blog but no actual content. 
 tag: academia
