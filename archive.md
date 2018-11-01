@@ -16,6 +16,18 @@ permalink: /archive
 
 {% endfor %}
 
+<h2>The Edge</h2>
+
+{% for post in site.posts %}
+
+{% if post.tag == "the edge" %}
+
+<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{ post.author }}
+
+{% endif %}
+
+{% endfor %}
+
 <h2>Fun</h2>
 
 {% for post in site.posts %}
