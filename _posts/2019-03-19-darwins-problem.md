@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Why (I) care about Darwin's Problem 
-subtitle: 
+title: Why (I) care about Darwin's Problem  
 excerpt: I like the term Darwin's Problem as a way to refer to the problem of human language evolution. By echoing Chomsky's nomenclature (Humboldt's Problem, Plato's Problem, Descartes' Problem), the term makes it clear that this is all part of a family of question that constitute a research program harking back to Tinbergen's Four questions for ethology.
 author: Cedric
 tag: evolution
