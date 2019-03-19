@@ -21,13 +21,21 @@ Of course, some might say this is not linguistics. That's fine. Different people
 At the end of the day, Darwin's Problem is a question that opens the field (of language sciences) like no other I know of. It's the only one that has made me revise my understanding of language based on progress in other fields; progress that seems so fundamental that it requires a shift of perspective in order to be assimilated (the FOXP2 literature being a prime example). It's the only one that expanded my data set (filling it with data of different kinds, from different species, from birds to bats to baboons). It's the only question that has left me without any excuse for not doing biology.
 
 
-References cited:
-Chomsky 86. Knowledge of Lg
-Tinbergen 63. On aims and methods of Ethology
-Bickerton 1990 Language and species
-Jackendoff 2002 Foundations of language OUP
-Progovac 2015 Evolutionary syntax Oxford UP
-Gallistel foundational abstractions Chapter in 2009 "Of minds and language" OUP
-Krakauer et al Neuroscience needs behavior 2017 Neuron
-Lasnik Syntactic Structures revisited 2000 MIT Press
-Hauser  Chomsky and Fitch 2002 Science
+### Works cited:
+
+Bickerton, D. (1992). *Language and Species (Reprint edition).* Chicago: University of Chicago Press.
+
+Hauser, M. D., Chomsky, N., & Fitch, W. T. (2002). The faculty of language: what is it, who has it, and how did it evolve? *Science* (New York, N.Y.), 298(5598), 1569–1579. https://doi.org/10.1126/science.298.5598.1569
+
+Jackendoff, R. (2003). *Foundations of Language: Brain, Meaning, Grammar, Evolution.* Oxford, New York: Oxford University Press.
+
+Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience Needs Behavior: Correcting a Reductionist Bias. *Neuron*, 93(3), 480–490. https://doi.org/10.1016/j.neuron.2016.12.041
+
+Lees, R. B. (1957). Review of Review of Syntactic Structures, by N. Chomsky. *Language*, 33(3), 375–408. https://doi.org/10.2307/411160
+
+Parker, F. (2001). Syntactic Structures Revisited: Contemporary Lectures on Classic Transformational Theory. *Journal of English Linguistics*, 29(2), 179–182. https://doi.org/10.1177/00754240122005297
+
+Piattelli-Palmarini, M., Uriagereka, J., & Salaburu, P. (2010). *Of Minds and Language: A Dialogue with Noam Chomsky in the Basque Country.* Oxford, New York: Oxford University Press.
+
+Progovac, L. (2015). *Evolutionary Syntax*. Oxford, New York: Oxford University Press.
+
