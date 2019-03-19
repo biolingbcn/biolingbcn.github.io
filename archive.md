@@ -16,11 +16,11 @@ permalink: /archive
 
 {% endfor %}
 
-<h2>The Edge</h2>
+<h2>Evolution</h2>
 
 {% for post in site.posts %}
 
-{% if post.tag == "edge" %}
+{% if post.tag == "evolution" %}
 
 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{ post.author }}
 
@@ -28,15 +28,5 @@ permalink: /archive
 
 {% endfor %}
 
-<h2>Fun</h2>
 
-{% for post in site.posts %}
-
-{% if post.tag == "fun" %}
-
-<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{ post.author }}
-
-{% endif %}
-
-{% endfor %}
 
