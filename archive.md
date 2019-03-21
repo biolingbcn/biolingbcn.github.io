@@ -29,4 +29,16 @@ permalink: /archive
 {% endfor %}
 
 
+<h2>Recommendations</h2>
+
+{% for post in site.posts %}
+
+{% if post.tag == "recommendations" %}
+
+<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{ post.author }}
+
+{% endif %}
+
+{% endfor %}
+
 
