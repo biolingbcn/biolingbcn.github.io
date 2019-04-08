@@ -11,6 +11,6 @@ Welcome to the personal blog of the [Cognitive Biology of Language](http://bioli
 {{ person.content }}
 {% endfor %}
 
-### Send us a nice email!
+### Send us a nice [email](mailto:biolinguistics.bcn@gmail.com)!
 
-[biolinguistics.bcn@gmail.com](mailto:biolinguistics.bcn@gmail.com)
+
