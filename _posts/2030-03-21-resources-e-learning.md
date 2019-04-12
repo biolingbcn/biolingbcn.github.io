@@ -3,7 +3,7 @@ layout: post
 title: Online resources I use to fight my impostor syndrome
 excerpt: I compiled a small list of recommendations for the topics that have been relevant to me in my attempt to study the evolution of human cognition (so far). All of these are high-quality resources and they are online and free. 
 author: Stefanie
-date: 2019-03-21
+date: 2030-03-21
 tag: recommendations
 ---
 
