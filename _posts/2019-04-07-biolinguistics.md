@@ -8,7 +8,7 @@ tag: academia
 
 The research group I am in used to be called *Biolinguistics Initiative Barcelona*.[^name]
 
-[^name]: The current name is *Cognitive Biology of Language Group*. The name change stems from the sentiment that I try to express in this text, and from the way in which our work changed over the years. We find it to be a more appropriate name.*
+[^name]: The current name is *Cognitive Biology of Language Group*. The name change stems from the sentiment that I try to express in this text, and from the way in which our work changed over the years. We find it to be a more appropriate name.
 
 Some of the articles I have written have titles such as the following:
 
