@@ -17,6 +17,11 @@ html {
   font-size: 100%;
 }
 
+sup {
+	font-size: smaller;
+	vertical-align: super;
+}
+
 body {
 	background: $white;
   font: 18px/1.4 $helvetica;
