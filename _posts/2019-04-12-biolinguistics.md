@@ -3,6 +3,7 @@ layout: post
 title: Why I don't like the term 'biolinguistics' anymore 
 excerpt: The research group I am in used to be called "Biolinguistics Initiative Barcelona". The current name is "Cognitive Biology of Language Group". The name change stems from the sentiment that I try to express in this text, and from the way in which our work changed over the years. 
 author: Pedro
+date: 2019-04-12
 tag: academia
 ---
 
