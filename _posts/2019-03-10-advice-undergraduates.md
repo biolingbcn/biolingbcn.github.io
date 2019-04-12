@@ -3,7 +3,7 @@ layout: post
 title: How to be a university student 101
 excerpt: I asked my friends and colleagues what advice they would give to their younger selves at the beginning of their university years. I got an interesting mix of responses. What seems to stand out is that the people I asked, most of whom were in their late twenties and early thirties, generally encouraged their younger selves to be more serious and work harder. Maybe I would have gotten very different responses if I had asked people who are now in their 60s and 70s. The people that I asked are currently facing the challenges of finding jobs they like, making money, surviving in society as real, full-blown adults. The advice they give to themselves seems to reflect the struggles that our generation faces in society and professional life.
 author: Stefanie
-date: 2019-03-10
+date: 2030-03-10
 tag: academia
 ---
 
